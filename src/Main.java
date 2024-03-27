@@ -1,11 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        //Task_1
-        System.out.println("Task_1");
-        int b = 44;
-        int c = 56;
-        System.out.println(4 * (b + c - 1) / 2);
+
 
         //Task_2
         System.out.println("Task_2");
