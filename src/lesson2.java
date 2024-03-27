@@ -12,7 +12,7 @@ public class lesson2 {
         } else System.out.println("Число " + number + " Нечётное");
 
         //Task_2
-        System.out.println("Task_2");
+        /*System.out.println("Task_2");
         int t = scanner.nextInt();
         if (t > -5) {
             System.out.println("Warm");
@@ -21,6 +21,8 @@ public class lesson2 {
         } else if (t <= -20) {
             System.out.println("Cold");
         }
+
+         */
 
 
         //Task_3
