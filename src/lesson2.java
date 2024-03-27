@@ -78,9 +78,11 @@ public class lesson2 {
         }
 
         //Task_8
-        System.out.println("Task_8");
+        /*System.out.println("Task_8");
         double z = 4.9;
         System.out.println((int)(z + 0.5));
+
+         */
 
     }
 }
